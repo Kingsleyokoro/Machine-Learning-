@@ -1,0 +1,2 @@
+In this pet project, I tried to predict bitcoin prices inorder to get confortable with time series data modelling.
+I used to the ARIMA model(Auto regression Integrated Moving Averages) to predict future prices.
